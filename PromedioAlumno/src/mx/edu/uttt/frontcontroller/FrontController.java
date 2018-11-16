@@ -5,16 +5,18 @@
  */
 package mx.edu.uttt.frontcontroller;
 
+import mx.edu.uttt.dispacher.Dispacher;
+
 /**
  *
  * @author omarp
  */
 public class FrontController {
     
-       private Dispatcher dispatcher;
+       private Dispacher dispatcher;
     
     public FrontController(){
-      dispatcher = new Dispatcher();
+      dispatcher = new Dispacher();
    }
 
    private boolean isAuthenticUser(){

@@ -5,6 +5,9 @@
  */
 package mx.edu.uttt.dispacher;
 
+import mx.edu.uttt.ejecutor.Login;
+import mx.edu.uttt.vistas.Teacher_View;
+
 /**
  *
  * @author omarp
