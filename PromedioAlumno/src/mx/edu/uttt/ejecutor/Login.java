@@ -94,12 +94,12 @@ public class Login extends javax.swing.JFrame {
 
     private void btnIngresarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnIngresarActionPerformed
         // TODO add your handling code here:
-//           String datos="";
-//     
-//     datos=TxtCorreo.getText();
-//     
-//       FrontController frontController = new FrontController();
-//      frontController.dispatchRequest(datos);
+           String datos="";
+     
+     datos=TxtCorreo.getText();
+     
+       FrontController frontController = new FrontController();
+      frontController.dispatchRequest(datos);
     
     }//GEN-LAST:event_btnIngresarActionPerformed
 
