@@ -11,4 +11,21 @@ package mx.edu.uttt.dispacher;
  */
 public class Dispacher {
     
+//     
+//   private Teacher_View teacherView;
+//   private Login LoginView;
+//   
+//   public Dispacher(){
+//      teacherView = new Teacher_View();
+//      LoginView = new Login();
+//   }
+//
+//   public void dispatch(String request){
+//      if(request.equalsIgnoreCase("maestro")){
+//         teacherView.show();
+//      }
+//      else{
+//         LoginView.show();
+//      }	
+//   }
 }
